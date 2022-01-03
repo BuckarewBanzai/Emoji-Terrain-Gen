@@ -1,7 +1,7 @@
 # Garden-App
 A python flask app that generates emoji gardens with random seeds.
 
-[](https://github.com/BuckarewBanzai/Garden-App/blob/main/garden.PNG?raw=true)
+![](https://github.com/BuckarewBanzai/Garden-App/blob/main/garden.PNG?raw=true)
 
 ## Usage:
 
