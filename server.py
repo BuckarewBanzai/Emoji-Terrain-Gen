@@ -1,7 +1,7 @@
 import os
 import random
 import string
-import gardener
+import gardener 
 from flask import Flask, redirect, url_for
 
 app = Flask(__name__)
@@ -14,7 +14,7 @@ def hello():
 
 @app.route('/<string:seed>')
 def garden(seed):
-    plot = gardener.drawpath(seed)
+    plot = gardener.drawgarden(seed)
     return plot
 
 
